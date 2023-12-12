@@ -84,7 +84,7 @@
    .marktxt{
     
       overflow: hidden;
-      border-right: .15em solid #9b53b6;
+      border-right: .15em solid #10C5FF;
       white-space: nowrap;
       
       letter-spacing: .15em;
@@ -101,7 +101,7 @@
     /* The typewriter cursor effect */
     @keyframes blink-caret {
       from, to { border-color: transparent }
-      50% { border-color: #9b53b6; }
+      50% { border-color: #10C5FF; }
     }
    
    .markangelo{
